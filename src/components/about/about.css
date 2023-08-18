@@ -1,45 +1,46 @@
 .About-Container {
-  height: auto;
+  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   padding: 2rem;
-
 }
-.About-Title{
-    letter-spacing: 0.5rem;
+.About-Title {
+  letter-spacing: 0.5rem;
   font-size: 4rem;
   font-weight: bolder;
 }
-.About-Society{
-    font-size: 2rem;
-    font-weight: lighter;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 1rem;
+.About-Society {
+  font-size: 2rem;
+  font-weight: lighter;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
 }
-.Vision-Mission-Container{
-    display: flex;
-    height: auto;
-    width: 100%;
+.Vision-Mission-Container {
+  display: flex;
+  height: auto;
+  width: 100%;
 }
-.About-Vision{
-    width: 50%;
+.About-Vision {
+  width: 50%;
 }
-.About-Mission{
-    width: 50%;
+.About-Mission {
+  width: 50%;
 }
-.Vision-Title,.Mission-Title{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 2rem;
+.Vision-Title,
+.Mission-Title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
 }
-.Vision-Content,.Mission-Content{
-     display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 1.5rem;
+.Vision-Content,
+.Mission-Content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
 }

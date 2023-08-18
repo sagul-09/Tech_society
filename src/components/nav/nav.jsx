@@ -35,6 +35,7 @@ const nav = () => {
           <ul className={mobnavOpen ? "active" : ""}>
             <li>
               <HashLink
+                smooth
                 to="#"
                 onClick={() => setMobilenavOpen(!mobnavOpen)}
                 className="active"
@@ -44,6 +45,7 @@ const nav = () => {
             </li>
             <li>
               <HashLink
+                smooth
                 to="#About"
                 onClick={() => setMobilenavOpen(!mobnavOpen)}
               >
@@ -52,7 +54,8 @@ const nav = () => {
             </li>
             <li>
               <HashLink
-                to="#paper-submission"
+                smooth
+                to="#"
                 onClick={() => setMobilenavOpen(!mobnavOpen)}
               >
                 Community
@@ -60,7 +63,8 @@ const nav = () => {
             </li>
             <li>
               <HashLink
-                to="#about"
+                smooth
+                to="#"
                 onClick={() => setMobilenavOpen(!mobnavOpen)}
               >
                 Event
@@ -68,7 +72,8 @@ const nav = () => {
             </li>
             <li>
               <HashLink
-                to="#contact"
+                smooth
+                to="#"
                 onClick={() => setMobilenavOpen(!mobnavOpen)}
               >
                 Contact
