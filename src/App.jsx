@@ -24,7 +24,7 @@ const App = () => {
       />
       <Nav />
       <Home />
-      <About />
+      <About id="About" />
     </>
   );
 };
