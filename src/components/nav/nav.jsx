@@ -44,7 +44,7 @@ const nav = () => {
             </li>
             <li>
               <HashLink
-                to="#call-for-paper"
+                to="#About"
                 onClick={() => setMobilenavOpen(!mobnavOpen)}
               >
                 About

@@ -26,7 +26,6 @@ const App = () => {
       <Nav />
       <Home />
       <About />
-      <Community />
     </>
   );
 };
