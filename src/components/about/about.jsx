@@ -6,15 +6,12 @@ const about = () => {
       <div className="About-Title">ABOUT</div>
       <div className="About-Society">
         Welcome to our dynamic and innovative Tech Society! Your gateway to the
-        exciting world of new technologies.
-        <br />
-        A community created by the learners, of the learners, and for the
-        learners.
-        <br />
-        Through engaging workshops, thrilling hackathons, and collaborative
-        project support, we're here to ignite your passion for technology and
-        empower you to shape the future. Join us on this journey of exploration,
-        creation, and endless possibilities!
+        exciting world of new technologies. A community created by the learners,
+        of the learners, and for the learners. Through engaging workshops,
+        thrilling hackathons, and collaborative project support, we're here to
+        ignite your passion for technology and empower you to shape the future.
+        Join us on this journey of exploration, creation, and endless
+        possibilities!
       </div>
       <div className="Vision-Mission-Container">
         <div className="About-Vision">
@@ -49,11 +46,15 @@ const about = () => {
                 </div>
               </div>
               <ul className="sci">
+<<<<<<< HEAD
                 <li>
                   Our mission is to provide a platform that empowers learners to
                   excel in the fields of Machine Learning, Web Development, Game
                   Development, Intelligent Systems, and much more
                 </li>
+=======
+                <li>hello im sagulk</li>
+>>>>>>> 9a5eba9b6b39196f122da41988337438478ef11b
               </ul>
             </div>
           </div>
