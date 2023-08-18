@@ -12,7 +12,7 @@ import {
 
 const Footer = () => {
   return (
-    <div className="footer">
+    <div className="footer" id="Contact">
       <div className="flex container1">
         <div className="block">
           <img style={{ width: "100%" }} src={logo} alt="logo" />
