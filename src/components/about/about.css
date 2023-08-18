@@ -31,12 +31,12 @@
 .About-Mission{
     width: 50%;
 }
-.Vision-Title,.Mission-Title{
+/* .Vision-Title,.Mission-Title{
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 2rem;
-}
+} */
 .Vision-Content,.Mission-Content{
      display: flex;
     justify-content: center;
@@ -80,24 +80,9 @@
 }
 
 .Vision-Content .card:hover .content {
-	transform: translateY(-20px);
+	transform: translateY(-7rem);
 }
 
-.Vision-Content .card .content .imgBx {
-	position: relative;
-	width: 150px;
-	height: 150px;
-	overflow: hidden;
-}
-
-.Vision-Content .card .content .imgBx img {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
-}
 
 .Vision-Content .card .content .contentBx h3 {
 	color: #fff;
@@ -125,20 +110,19 @@
 .Vision-Content .card .sci li {
 	list-style: none;
 	margin: 0 10px;
-	transform: translateY(40px);
+	transform: translateY(-40px);
 	transition: 0.5s;
 	opacity: 0;
+    font-size: large;
 }
 
 .Vision-Content .card:hover .sci li {
-	transform: translateY(0px);
+	transform: translateY(3rem);
 	opacity: 1;
+    font-size: large;
 }
 
-.Vision-Content .card .sci li a {
-	color: #fff;
-	font-size: 20px;
-}
+
 
 
 .Mission-Content {
@@ -175,24 +159,10 @@
 }
 
 .Mission-Content .card:hover .content {
-	transform: translateY(-20px);
+	transform: translateY(-7rem);
 }
 
-.Mission-Content .card .content .imgBx {
-	position: relative;
-	width: 150px;
-	height: 150px;
-	overflow: hidden;
-}
 
-.Mission-Content .card .content .imgBx img {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
-}
 
 .Mission-Content .card .content .contentBx h3 {
 	color: #fff;
@@ -223,15 +193,15 @@
 	transform: translateY(40px);
 	transition: 0.5s;
 	opacity: 0;
+    font-size: large;
 }
 
 .Mission-Content .card:hover .sci li {
-	transform: translateY(0px);
+	transform: translateY(-2rem);
 	opacity: 1;
+    font-size: large;
+   
 }
 
-.Mission-Content .card .sci li a {
-	color: #fff;
-	font-size: 20px;
-}
+
 

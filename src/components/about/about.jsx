@@ -18,56 +18,42 @@ const about = () => {
       </div>
       <div className="Vision-Mission-Container">
         <div className="About-Vision">
-          <div className="Vision-Title">VISION</div>
+          {/* <div className="Vision-Title">VISION</div> */}
           <div className="Vision-Content">
             <div className="card">
               <div className="content">
-                <div className="imgBx">
-                  <img src="https://image.flaticon.com/icons/png/256/4213/4213732.png" />
-                </div>
                 <div className="contentBx">
-                  <h3>
-                    Lion
-                    <br />
-                    <span>Happy Birthday</span>
-                  </h3>
+                  <h2>VISION</h2>
                 </div>
               </div>
               <ul className="sci">
                 <li>
-                  <a href="">happy</a>
-                </li>
-                <li>
-                  <a href="">birth</a>
-                </li>
-                <li>
-                  <a href="">day</a>
+                  {" "}
+                  Our vision is to create a vibrant college tech community where
+                  diverse learners unite to explore and advance technology.
+                  Together, we foster innovation, collaboration, and lifelong
+                  learning, empowering learners to leverage technology for a
+                  positive impact.
                 </li>
               </ul>
             </div>
           </div>
         </div>
         <div className="About-Mission">
-          <div className="Mission-Title">Mission</div>
+          {/* <div className="Mission-Title">Mission</div> */}
           <div className="Mission-Content">
             <div className="card">
               <div className="content">
-                <div className="imgBx">
-                  <img src="https://image.flaticon.com/icons/png/256/4213/4213732.png" />
-                </div>
                 <div className="contentBx">
-                  <h3>
-                    Lion
-                    <br />
-                    <span>Happy Birthday</span>
-                  </h3>
+                  <h2>MISSION</h2>
                 </div>
               </div>
               <ul className="sci">
                 <li>
-                  hello im sagulk
+                  Our mission is to provide a platform that empowers learners to
+                  excel in the fields of Machine Learning, Web Development, Game
+                  Development, Intelligent Systems, and much more
                 </li>
-                
               </ul>
             </div>
           </div>
