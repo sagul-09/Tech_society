@@ -5,8 +5,7 @@ const about = () => {
     <div className="About-Container">
       <div className="About-Title">ABOUT</div>
       <div className="About-Society">
-        <p>
-          {" "}
+       
           Welcome to our dynamic and innovative Tech Society! Your gateway to
           the exciting world of new technologies.
           <br />
@@ -17,7 +16,17 @@ const about = () => {
           project support, we're here to ignite your passion for technology and
           empower you to shape the future. Join us on this journey of
           exploration, creation, and endless possibilities!
-        </p>
+       
+      </div>
+      <div className="Vision-Mission-Container">
+              <div className="About-Vision">
+                  <div className="Vision-Title">VISION</div>
+                  <div className="Vision-Content">hello my vision</div>
+        </div>
+              <div className="About-Mission">
+                  <div className="Mission-Title">Mission</div>
+                  <div className="Mission-Content">hello my Mission</div>
+        </div>
       </div>
     </div>
   );

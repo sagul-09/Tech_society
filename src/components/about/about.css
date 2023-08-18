@@ -20,3 +20,26 @@
     align-items: center;
     padding: 1rem;
 }
+.Vision-Mission-Container{
+    display: flex;
+    height: auto;
+    width: 100%;
+}
+.About-Vision{
+    width: 50%;
+}
+.About-Mission{
+    width: 50%;
+}
+.Vision-Title,.Mission-Title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
+.Vision-Content,.Mission-Content{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+}
