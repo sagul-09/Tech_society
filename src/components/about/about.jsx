@@ -25,7 +25,6 @@ const about = () => {
               </div>
               <ul className="sci">
                 <li>
-                  {" "}
                   Our vision is to create a vibrant college tech community where
                   diverse learners unite to explore and advance technology.
                   Together, we foster innovation, collaboration, and lifelong
