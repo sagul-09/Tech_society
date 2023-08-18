@@ -46,15 +46,11 @@ const about = () => {
                 </div>
               </div>
               <ul className="sci">
-<<<<<<< HEAD
                 <li>
                   Our mission is to provide a platform that empowers learners to
                   excel in the fields of Machine Learning, Web Development, Game
                   Development, Intelligent Systems, and much more
                 </li>
-=======
-                <li>hello im sagulk</li>
->>>>>>> 9a5eba9b6b39196f122da41988337438478ef11b
               </ul>
             </div>
           </div>
