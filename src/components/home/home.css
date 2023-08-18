@@ -58,3 +58,20 @@
   justify-content: flex-end;
 }
 
+@media screen and (max-width: 768px) {
+  .Home-Container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .Society-Name {
+    width: 80%;
+    align-items: center;
+    padding-top: 15rem;
+    /* margin-bottom: 2rem; */
+  }
+
+  .College-Title {
+    font-size: 3rem;
+  }
+}

@@ -41,7 +41,7 @@ const Footer = () => {
           >
             SOCIALS
           </h4>
-          <div class="social-links">
+          <div className="social-links">
             <a
               target="_blank"
               href="https://www.facebook.com/pg/SaveethaEngineeringCollegeSEC/posts/?ref=page_internal"
@@ -77,13 +77,13 @@ const Footer = () => {
             Saveetha Nagar, Sriperumbadur Taluk, Kanchipuram - Chennai Rd,
             Chennai, Tamil Nadu 602105
           </p>
-          <div class="mapouter">
-            <div class="gmap_canvas">
+          <div className="mapouter">
+            <div className="gmap_canvas">
               <iframe
                 style={{
                   borderRadius: "10px",
                 }}
-                class="gmap_iframe"
+                className="gmap_iframe"
                 width="100%"
                 src="https://maps.google.com/maps?width=250&amp;height=250&amp;hl=en&amp;q=Saveetha engineering college&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
               ></iframe>
