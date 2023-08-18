@@ -73,7 +73,7 @@ const nav = () => {
             <li>
               <HashLink
                 smooth
-                to="#"
+                to="#Contact"
                 onClick={() => setMobilenavOpen(!mobnavOpen)}
               >
                 Contact

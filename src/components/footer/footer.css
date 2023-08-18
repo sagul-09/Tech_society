@@ -108,4 +108,7 @@
   color: white;
 }
 
-
+.particles {
+  position: absolute;
+  z-index: -10000;
+}
