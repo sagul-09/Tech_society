@@ -1,6 +1,8 @@
 import React, { useCallback } from "react";
 import Nav from "./components/nav/nav";
 import Home from "./components/home/home";
+import About from "./components/about/about";
+
 import Particles from "react-tsparticles";
 import { Particle } from "./configs/partical.config";
 import { loadFull } from "tsparticles";
@@ -22,6 +24,7 @@ const App = () => {
       />
       <Nav />
       <Home />
+      <About />
     </>
   );
 };

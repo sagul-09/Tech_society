@@ -1,0 +1,22 @@
+.About-Container {
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 2rem;
+
+}
+.About-Title{
+    letter-spacing: 0.5rem;
+  font-size: 4rem;
+  font-weight: bolder;
+}
+.About-Society{
+    font-size: 2rem;
+    font-weight: lighter;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}

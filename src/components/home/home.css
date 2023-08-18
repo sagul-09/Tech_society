@@ -39,10 +39,15 @@
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
+  font-weight: 700;
 }
 
 .College-Title {
   letter-spacing: 1rem;
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: bolder;
+}
+.Society-Thought {
+  font-size: 1.5rem;
+  font-weight: lighter;
 }
