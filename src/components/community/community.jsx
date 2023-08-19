@@ -84,9 +84,9 @@ const community = () => {
                   <br />
                   <span>Contact</span>
                   <br />
-                  Mail: shamrathan@saveetha.ac.in
+                  Mail: aakash.student@saveetha.ac.in
                   <br />
-                  Phone No.: 9940890784
+                  Phone No.: 6383960184
                 </div>
                 <ul className="postcard__tagbox">
                   <li className="tag__item play red">
