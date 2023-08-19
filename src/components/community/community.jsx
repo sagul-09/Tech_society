@@ -2,7 +2,7 @@ import "./community.css";
 
 const community = () => {
   return (
-    <div className="Community-Container">
+    <div className="Community-Container" id="Community">
       <div className="Community-Title">COMMUNITY</div>
       <div className="Community-Society">
         <div className="container py-4">

@@ -55,7 +55,7 @@ const nav = () => {
             <li>
               <HashLink
                 smooth
-                to="#"
+                to="#Community"
                 onClick={() => setMobilenavOpen(!mobnavOpen)}
               >
                 Community
@@ -64,10 +64,10 @@ const nav = () => {
             <li>
               <HashLink
                 smooth
-                to="#"
+                to="#Register"
                 onClick={() => setMobilenavOpen(!mobnavOpen)}
               >
-                Event
+                Register
               </HashLink>
             </li>
             <li>
