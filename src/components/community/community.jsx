@@ -3,25 +3,22 @@ import Web from "../../assets/community/web.jpeg";
 import Game from "../../assets/community/game.jpg"
 import Inte from "../../assets/community/intellif=gence.jpg"
 import Ml from "../../assets/community/ML.jpeg"
-import Fade from "react-reveal/Fade";
 const community = () => {
   return (
     <div className="Community-Container" id="Community">
-      <div className="Community-Title">COMMUNITY</div>
+      <div className="Community-Title">
+        <div data-aos="fade-down">COMMUNITY</div>
+      </div>
       <div className="Community-Society">
         <div className="container py-4">
-          <Fade left>
+          <div data-aos="fade-right">
             <article className="postcard dark blue">
               <img className="postcard__img" src={Web} alt="Image Title" />
               <div className="postcard__text">
                 <h1 className="postcard__title blue">
                   <div>WEB DEVELOPMENT COMMUNITY</div>
                 </h1>
-                {/* <div className="postcard__subtitle small">
-               
-                  <i className="fas fa-calendar-alt mr-2"></i>Mon, May 25th 2020
-             
-              </div> */}
+
                 <div className="postcard__bar"></div>
                 <div className="postcard__preview-txt">
                   Vision: Igniting a passion for web development by fostering a
@@ -53,8 +50,8 @@ const community = () => {
                 </ul>
               </div>
             </article>
-          </Fade>
-          <Fade right>
+          </div>
+          <div data-aos="fade-left">
             <article className="postcard dark red">
               <img className="postcard__img" src={Game} alt="Image Title" />
 
@@ -100,8 +97,8 @@ const community = () => {
                 </ul>
               </div>
             </article>
-          </Fade>
-          <Fade left>
+          </div>
+          <div data-aos="fade-left">
             <article className="postcard dark blue">
               <img className="postcard__img" src={Inte} alt="Image Title" />
               <div className="postcard__text">
@@ -159,8 +156,8 @@ const community = () => {
                 </ul>
               </div>
             </article>
-          </Fade>
-          <Fade right>
+          </div>
+          <div data-aos="fade-right">
             <article className="postcard dark red">
               <img className="postcard__img" src={Ml} alt="Image Title" />
 
@@ -210,7 +207,7 @@ const community = () => {
                 </ul>
               </div>
             </article>
-          </Fade>
+          </div>
         </div>
       </div>
     </div>

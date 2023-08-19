@@ -1,9 +1,9 @@
 import "./about.css";
-import Fade from "react-reveal/Fade";
+
 const about = () => {
   return (
     <div className="About-Container" id="About">
-      <Fade bottom>
+      <div data-aos="fade-down">
         <div className="About-Title">ABOUT</div>
         <div className="About-Society">
           Welcome to our dynamic and innovative Tech Society! Your gateway to
@@ -15,11 +15,10 @@ const about = () => {
           technology and empower you to shape the future. Join us on this
           journey of exploration, creation, and endless possibilities!
         </div>
-      </Fade>
+      </div>
       <div className="Vision-Mission-Container">
-        {/* <div className="Vision-Title">VISION</div> */}
-        <Fade left>
-          <div className="Vision-Content">
+        <div className="Vision-Content">
+          <div data-aos="fade-right">
             <div className="card">
               <div className="content">
                 <div className="contentBx">
@@ -37,10 +36,9 @@ const about = () => {
               </ul>
             </div>
           </div>
-        </Fade>
-        {/* <div className="Mission-Title">Mission</div> */}
-        <Fade right>
-          <div className="Mission-Content">
+        </div>
+        <div className="Mission-Content">
+          <div data-aos="fade-left">
             <div className="card">
               <div className="content">
                 <div className="contentBx">
@@ -56,7 +54,7 @@ const about = () => {
               </ul>
             </div>
           </div>
-        </Fade>
+        </div> 
       </div>
     </div>
   );

@@ -4,8 +4,11 @@ import About from "./components/about/about";
 import Community from "./components/community/community";
 import Register from "./components/register/register";
 import Footer from "./components/footer/footer";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 const App = () => {
+  AOS.init();
   return (
     <>
       <Nav />
