@@ -98,7 +98,7 @@ const community = () => {
               </div>
             </article>
           </div>
-          <div data-aos="fade-left">
+          <div data-aos="fade-right">
             <article className="postcard dark blue">
               <img className="postcard__img" src={Inte} alt="Image Title" />
               <div className="postcard__text">
@@ -157,7 +157,7 @@ const community = () => {
               </div>
             </article>
           </div>
-          <div data-aos="fade-right">
+          <div data-aos="fade-left">
             <article className="postcard dark red">
               <img className="postcard__img" src={Ml} alt="Image Title" />
 

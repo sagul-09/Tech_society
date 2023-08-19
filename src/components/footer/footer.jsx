@@ -40,7 +40,7 @@ const Footer = () => {
               <li>Anisha Shabnam</li>
               <li>Mail: anishashabnamm.student@saveetha.ac.in</li>
               <br />
-              <li>Kaushika A</li>
+              <li>Kaushika</li>
               <li>Mail: kaushika.student@saveetha.ac.in</li>
               <br />
             </ul>
