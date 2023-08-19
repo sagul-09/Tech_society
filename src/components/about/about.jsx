@@ -1,4 +1,3 @@
-import React from "react";
 import "./about.css";
 import Fade from "react-reveal/Fade";
 const about = () => {
@@ -12,7 +11,7 @@ const about = () => {
           <br /> A community created by the learners, of the learners, and for
           the learners.
           <br /> Through engaging workshops, thrilling hackathons, and
-          collaborative project support, we're here to ignite your passion for
+          collaborative project support, we are here to ignite your passion for
           technology and empower you to shape the future. Join us on this
           journey of exploration, creation, and endless possibilities!
         </div>

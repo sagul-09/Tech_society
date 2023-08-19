@@ -1,4 +1,3 @@
-import React from "react";
 import "./footer.css";
 import logo from "../../assets/logo.png";
 import { Link } from "react-router-dom";
@@ -62,28 +61,28 @@ const Footer = () => {
           </h4>
           <div className="social-links">
             <a
-              target="_blank"
+              target="blank"
               href="https://www.facebook.com/pg/SaveethaEngineeringCollegeSEC/posts/?ref=page_internal"
             >
               <FaFacebook />
             </a>
-            <a target="_blank" href="https://twitter.com/SaveethaSEC/">
+            <a target="blank" href="https://twitter.com/SaveethaSEC/">
               <FaTwitter />
             </a>
             <a
-              target="_blank"
+              target="blank"
               href="https://www.instagram.com/saveethaengineeringcollege/"
             >
               <FaInstagram />
             </a>
             <a
-              target="_blank"
+              target="blank"
               href="https://www.linkedin.com/in/saveetha-engineering-college/"
             >
               <FaLinkedinIn />
             </a>
             <a
-              target="_blank"
+              target="blank"
               href="https://in.pinterest.com/saveethaengineering/"
             >
               <FaPinterest />
