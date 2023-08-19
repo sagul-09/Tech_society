@@ -1,4 +1,5 @@
 import "./about.css";
+import "aos/dist/aos.css";
 
 const about = () => {
   return (
