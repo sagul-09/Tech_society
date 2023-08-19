@@ -1,8 +1,8 @@
 import "./community.css";
 import Web from "../../assets/community/web.jpeg";
-import Game from "../../assets/community/game.jpg"
-import Inte from "../../assets/community/intellif=gence.jpg"
-import Ml from "../../assets/community/ML.jpeg"
+import Game from "../../assets/community/game.jpg";
+import Inte from "../../assets/community/intellif=gence.jpg";
+import Ml from "../../assets/community/ML.jpeg";
 const community = () => {
   return (
     <div className="Community-Container" id="Community">
@@ -37,9 +37,9 @@ const community = () => {
                   <br />
                   <span>Contact:</span>
                   <br />
-                  Mail: lathikasunder@saveetha.ac.in
+                  Mail: sarankumar.student@saveetha.ac.in
                   <br />
-                  Phone No.: 7550240307
+                  Phone No.: 6379615515
                 </div>
                 <ul className="postcard__tagbox">
                   <li className="tag__item play blue">

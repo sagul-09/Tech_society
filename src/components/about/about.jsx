@@ -55,7 +55,7 @@ const about = () => {
               </ul>
             </div>
           </div>
-        </div> 
+        </div>
       </div>
     </div>
   );
