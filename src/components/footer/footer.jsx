@@ -28,10 +28,6 @@ const Footer = () => {
               <li>Marinto Richee J</li>
               <li>Mail: marintorichee.student@saveetha.ac.in</li>
               <li>Phone No.: 9994934712</li>
-              <br />
-              <li>Shafeeq Ahamed</li>
-              <li>Mail: shafeeq.student@saveetha.ac.in</li>
-              <li>Phone No.: 9840328404</li>
             </ul>
           </div>
           <h4 className="heading">ASSISTANT STUDENT CO-ORDINATORS</h4>
@@ -43,6 +39,9 @@ const Footer = () => {
               <li>Kaushika</li>
               <li>Mail: kaushika.student@saveetha.ac.in</li>
               <br />
+              <li>Shafeeq Ahamed</li>
+              <li>Mail: shafeeq.student@saveetha.ac.in</li>
+              <li>Phone No.: 9840328404</li>
             </ul>
           </div>
         </div>
