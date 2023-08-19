@@ -18,6 +18,7 @@
   animation: textclip 2s linear infinite;
   display: inline-block;
   font-size: 5rem;
+  display: flex;
 }
 
 @keyframes textclip {
@@ -96,7 +97,7 @@
   height: auto;
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
+
   font-weight: 700;
 }
 
@@ -104,6 +105,7 @@
   letter-spacing: 1rem;
   font-size: 4rem;
   font-weight: bolder;
+  display: flex;
 }
 .Society-Thought {
   font-size: 1.5rem;
