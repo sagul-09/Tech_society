@@ -122,6 +122,7 @@
   .Home-Container {
     flex-direction: column;
     text-align: center;
+    height: auto;
   }
 
   .Society-Name {
