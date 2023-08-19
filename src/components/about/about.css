@@ -21,9 +21,14 @@
   padding: 1rem;
 }
 .Vision-Mission-Container {
-  display: flex;
+
+   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-evenly;
   height: auto;
   width: 100%;
+ 
 }
 .About-Vision {
   width: 50%;
