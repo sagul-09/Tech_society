@@ -1,5 +1,8 @@
 import "./community.css";
-
+import Web from "../../assets/community/web.png";
+import Game from "../../assets/community/game.jpg"
+import Inte from "../../assets/community/intellif=gence.jpg"
+import Ml from "../../assets/community/ML.jpeg"
 const community = () => {
   return (
     <div className="Community-Container" id="Community">
@@ -9,7 +12,7 @@ const community = () => {
           <article className="postcard dark blue">
             <img
               className="postcard__img"
-              src="https://picsum.photos/1000/1000"
+              src={Web}
               alt="Image Title"
             />
             <div className="postcard__text">
@@ -43,7 +46,7 @@ const community = () => {
           <article className="postcard dark red">
             <img
               className="postcard__img"
-              src="https://picsum.photos/501/500"
+              src={Game}
               alt="Image Title"
             />
 
@@ -80,7 +83,7 @@ const community = () => {
           <article className="postcard dark blue">
             <img
               className="postcard__img"
-              src="https://picsum.photos/1000/1000"
+              src={Inte}
               alt="Image Title"
             />
             <div className="postcard__text">
@@ -129,7 +132,7 @@ const community = () => {
           <article className="postcard dark red">
             <img
               className="postcard__img"
-              src="https://picsum.photos/501/500"
+              src={Ml}
               alt="Image Title"
             />
 
