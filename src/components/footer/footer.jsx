@@ -16,11 +16,29 @@ const Footer = () => {
       <div className="flex container1">
         <div className="block">
           <img style={{ width: "100%" }} src={logo} alt="logo" />
-          <div className="desc">ADD CONTENT</div>
+          <div className="heading">COMMUNITY HEAD</div>
+          <div className="Community-Head">
+            <ul>
+              <li>Mr. C. Obed Otto, M.E., Associate Dean, ICT</li>
+            </ul>
+          </div>
         </div>
         <div className="block">
-          <h4 className="heading">CO-ORDINATORS</h4>
-        
+          <h4 className="heading">STUDENT CO-ORDINATORS</h4>
+          <div className="Community-Coordinators">
+            <ul>
+              <li>Marinto Richee J</li>
+              <li>Mail: marintorichee.student@saveetha.ac.in</li>
+              <li>Phone No.: 9994934712</li>
+              <br />
+              <li>Shafeeq Ahamed</li>
+              <br />
+              <li>Anisha Shabnam</li>
+              <br />
+              <li>Kaushika A</li>
+              <br />
+            </ul>
+          </div>
         </div>
         <div className="block">
           <h4 className="heading">USEFUL LINKS</h4>

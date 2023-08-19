@@ -4,6 +4,24 @@
   color: #ffffff;
   padding-top: 0.5rem;
 }
+.Community-Head ul {
+  font-size: 1rem;
+  list-style-type: none;
+}
+
+.Community-Head ul li {
+  font-weight: 400;
+  text-decoration: none;
+}
+.Community-Coordinators ul {
+  font-size: 1rem;
+  list-style-type: none;
+}
+
+.Community-Coordinators ul li {
+  font-weight: 400;
+  text-decoration: none;
+}
 
 .footer .container1 {
   width: 90%;
