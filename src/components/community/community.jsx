@@ -136,14 +136,14 @@ const community = () => {
                   future where intelligent systems catalyze societal progress.
                   <br />
                   <br />
-                  Secretery: NAGARAJ S
+                  Secretery: Nagaraj s
                   <br />
                   Joint-Secretery: Jeeva Abhishek, K. Kavya, Amrutha Rajsheker
                   <br />
                   <br />
                   <span>Contact</span>
                   <br />
-                  Mail:nagaraj.cse@saveetha.ac.in
+                  Mail: nagaraj.cse.student@saveetha.ac.in
                   <br />
                   Phone No.: 7603809690
                 </div>
