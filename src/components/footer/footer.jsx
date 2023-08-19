@@ -32,7 +32,11 @@ const Footer = () => {
               <li>Shafeeq Ahamed</li>
               <li>Mail: shafeeq.student@saveetha.ac.in</li>
               <li>Phone No.: 9840328404</li>
-              <br />
+            </ul>
+          </div>
+          <h4 className="heading">ASSISTANT STUDENT CO-ORDINATORS</h4>
+          <div className="Community-Coordinators">
+            <ul>
               <li>Anisha Shabnam</li>
               <li>Mail: anishashabnamm.student@saveetha.ac.in</li>
               <br />
