@@ -30,7 +30,7 @@ const community = () => {
                   unveiling the full potential of web development.
                   <br />
                   <br />
-                  Secretery: Lathika Sundar
+                  Secretery: Lathika Sunder
                   <br />
                   Joint-Secretery: Sagul, SaranKumar J, Harsayazheni PY
                   <br />

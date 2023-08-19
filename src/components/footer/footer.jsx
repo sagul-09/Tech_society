@@ -14,8 +14,8 @@ const Footer = () => {
     <div className="footer" id="Contact">
       <div className="flex container1">
         <div className="block">
-          <img style={{ width: "100%" }} src={logo} alt="logo" />
-          <div className="heading">COMMUNITY HEAD</div>
+          {/* <img style={{ width: "100%" }} src={logo} alt="logo" /> */}
+          <h4 className="heading">COMMUNITY HEAD</h4>
           <div className="Community-Head">
             <ul>
               <li>Mr. C. Obed Otto, M.E., Associate Dean, ICT</li>
@@ -35,8 +35,10 @@ const Footer = () => {
               <li>Phone No.: 9840328404</li>
               <br />
               <li>Anisha Shabnam</li>
+              <li>Mail: anishashabnamm.student@saveetha.ac.in</li>
               <br />
               <li>Kaushika A</li>
+              <li>Mail: kaushika.student@saveetha.ac.in</li>
               <br />
             </ul>
           </div>
