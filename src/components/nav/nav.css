@@ -1,6 +1,7 @@
 .navbar {
   position: fixed;
   z-index: 4;
+  background-color: #000;
 }
 
 a{
@@ -78,7 +79,7 @@ a{
 
 #mobile {
   display: none;
-  color: white;
+  color: rgb(255, 254, 254);
   cursor: pointer;
 }
 
