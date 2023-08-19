@@ -31,6 +31,8 @@ const Footer = () => {
               <li>Phone No.: 9994934712</li>
               <br />
               <li>Shafeeq Ahamed</li>
+              <li>Mail: shafeeq.student@saveetha.ac.in</li>
+              <li>Phone No.: 9840328404</li>
               <br />
               <li>Anisha Shabnam</li>
               <br />
