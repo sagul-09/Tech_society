@@ -20,6 +20,7 @@ const Footer = () => {
         </div>
         <div className="block">
           <h4 className="heading">CO-ORDINATORS</h4>
+        
         </div>
         <div className="block">
           <h4 className="heading">USEFUL LINKS</h4>

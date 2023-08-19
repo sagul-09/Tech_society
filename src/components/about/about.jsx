@@ -1,21 +1,25 @@
 import React from "react";
 import "./about.css";
+import Fade from "react-reveal/Fade";
 const about = () => {
   return (
     <div className="About-Container" id="About">
-      <div className="About-Title">ABOUT</div>
-      <div className="About-Society">
-        Welcome to our dynamic and innovative Tech Society! Your gateway to the
-        exciting world of new technologies.<br/> A community created by the learners,
-        of the learners, and for the learners.<br/> Through engaging workshops,
-        thrilling hackathons, and collaborative project support, we're here to
-        ignite your passion for technology and empower you to shape the future.
-        Join us on this journey of exploration, creation, and endless
-        possibilities!
-      </div>
+      <Fade bottom>
+        <div className="About-Title">ABOUT</div>
+        <div className="About-Society">
+          Welcome to our dynamic and innovative Tech Society! Your gateway to
+          the exciting world of new technologies.
+          <br /> A community created by the learners, of the learners, and for
+          the learners.
+          <br /> Through engaging workshops, thrilling hackathons, and
+          collaborative project support, we're here to ignite your passion for
+          technology and empower you to shape the future. Join us on this
+          journey of exploration, creation, and endless possibilities!
+        </div>
+      </Fade>
       <div className="Vision-Mission-Container">
-    
-          {/* <div className="Vision-Title">VISION</div> */}
+        {/* <div className="Vision-Title">VISION</div> */}
+        <Fade left>
           <div className="Vision-Content">
             <div className="card">
               <div className="content">
@@ -33,10 +37,10 @@ const about = () => {
                 </li>
               </ul>
             </div>
-          
-        </div>
-      
-          {/* <div className="Mission-Title">Mission</div> */}
+          </div>
+        </Fade>
+        {/* <div className="Mission-Title">Mission</div> */}
+        <Fade right>
           <div className="Mission-Content">
             <div className="card">
               <div className="content">
@@ -53,8 +57,8 @@ const about = () => {
               </ul>
             </div>
           </div>
-        </div>
-    
+        </Fade>
+      </div>
     </div>
   );
 };
