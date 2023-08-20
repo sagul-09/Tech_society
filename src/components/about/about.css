@@ -51,7 +51,7 @@ display: flex;
 
 }
 .card{
-  height: 30vh;
+  height: auto;
   width: 40vw;
   background-color: rgba(0, 0, 0, 0.1);
   border-radius: 10px;

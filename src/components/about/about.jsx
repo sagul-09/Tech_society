@@ -44,6 +44,8 @@ const about = () => {
                 Our mission is to provide a platform that empowers learners to
                 excel in the fields of Machine Learning, Web Development, Game
                 Development, Intelligent Systems, and much more
+                <br/>
+                <br/>
               </div>
             </div>
           </div>
