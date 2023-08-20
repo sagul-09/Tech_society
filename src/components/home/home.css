@@ -117,7 +117,7 @@
   justify-content: flex-end;
 }
 .Society-Logo{
-  width: 20vw;
+  
 }
 
 @media screen and (max-width: 768px) {
@@ -137,7 +137,8 @@
     /* margin-bottom: 2rem; */
   }
   .Society-Logo{
-    width: 70vw;
+    width: 100vw;
+    /* height: auto; */
   }
 
   .College-Title {
