@@ -6,6 +6,7 @@ import {
   FaLinkedinIn,
   FaInstagram,
   FaPinterest,
+  FaYoutube,
 } from "react-icons/fa";
 
 const Footer = () => {
@@ -70,32 +71,23 @@ const Footer = () => {
             SOCIALS
           </h4>
           <div className="social-links">
-            <a
-              target="blank"
-              href="https://www.facebook.com/pg/SaveethaEngineeringCollegeSEC/posts/?ref=page_internal"
-            >
+            <a target="blank" href="https://www.facebook.com/techsocietysec/">
               <FaFacebook />
             </a>
-            <a target="blank" href="https://twitter.com/SaveethaSEC/">
+            <a target="blank" href="https://twitter.com/techsocietysec/">
               <FaTwitter />
             </a>
-            <a
-              target="blank"
-              href="https://www.instagram.com/saveethaengineeringcollege/"
-            >
+            <a target="blank" href=" https://www.instagram.com/techsocietysec/">
               <FaInstagram />
             </a>
             <a
               target="blank"
-              href="https://www.linkedin.com/in/saveetha-engineering-college/"
+              href="https://www.linkedin.com/in/techsocietysec/"
             >
               <FaLinkedinIn />
             </a>
-            <a
-              target="blank"
-              href="https://in.pinterest.com/saveethaengineering/"
-            >
-              <FaPinterest />
+            <a target="blank" href="https://www.youtube.com/@techsocietysec/">
+              <FaYoutube />
             </a>
           </div>
         </div>
