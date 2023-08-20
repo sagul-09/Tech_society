@@ -19,7 +19,7 @@ const home = () => {
             </div>
           </div>
         </div>
-        <img src={TSLogo} alt="Society Logo" />
+        <img src={TSLogo} className="Society-Logo" alt="Society Logo" />
       </div>
     </>
   );

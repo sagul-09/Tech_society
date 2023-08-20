@@ -97,7 +97,6 @@
   height: auto;
   display: flex;
   flex-direction: column;
-
   font-weight: 700;
 }
 
@@ -117,6 +116,9 @@
   display: flex;
   justify-content: flex-end;
 }
+.Society-Logo{
+  width: 20vw;
+}
 
 @media screen and (max-width: 768px) {
   .Home-Container {
@@ -129,10 +131,18 @@
     width: 80%;
     align-items: center;
     padding-top: 15rem;
+    display: flex;
+    justify-content: center;
+    
     /* margin-bottom: 2rem; */
+  }
+  .Society-Logo{
+    width: 70vw;
   }
 
   .College-Title {
     font-size: 3rem;
+    display: flex;
+    justify-content: center;
   }
 }
