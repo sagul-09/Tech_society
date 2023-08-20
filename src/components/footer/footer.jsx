@@ -74,7 +74,7 @@ const Footer = () => {
             <a target="blank" href="https://www.facebook.com/techsocietysec/">
               <FaFacebook />
             </a>
-            <a target="blank" href="https://twitter.com/techsocietysec/">
+            <a target="blank" href="https://twitter.com/techsocietysec">
               <FaTwitter />
             </a>
             <a target="blank" href=" https://www.instagram.com/techsocietysec/">
