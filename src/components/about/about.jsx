@@ -46,6 +46,7 @@ const about = () => {
                 Development, Intelligent Systems, and much more
                 <br/>
                 <br/>
+    
               </div>
             </div>
           </div>
