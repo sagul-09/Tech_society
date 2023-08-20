@@ -22,12 +22,14 @@ const Footer = () => {
           </div>
         </div>
         <div className="block">
-          <h4 className="heading">STUDENT CO-ORDINATORS</h4>
+          <h4 className="heading">OVERALL STUDENT CO-ORDINATOR</h4>
           <div className="Community-Coordinators">
             <ul>
-              <li>Marinto Richee J</li>
-              <li>Mail: marintorichee.student@saveetha.ac.in</li>
-              <li>Phone No.: 9994934712</li>
+              <li className="links">Marinto Richee J</li>
+              <li className="links">
+                Mail: marintorichee.student@saveetha.ac.in
+              </li>
+              <li className="links">Phone No.: 9994934712</li>
             </ul>
           </div>
           <h4 className="heading">ASSISTANT STUDENT CO-ORDINATORS</h4>
@@ -53,11 +55,11 @@ const Footer = () => {
           <a href="#About" className="links">
             About
           </a>
-          <Link to="/#paper-submission" className="links">
+          <a href="#Community" className="links">
             Community
-          </Link>
-          <a href="#" className="links">
-            Privacy Policy
+          </a>
+          <a href="#Register" className="links">
+            Register
           </a>
           <h4
             className="heading"
@@ -98,7 +100,7 @@ const Footer = () => {
         <div className="block">
           <h4 className="heading">LOCATION</h4>
           <p className="address">
-            Saveetha Nagar, Sriperumbadur Taluk, Kanchipuram - Chennai Rd,
+            Saveetha Nagar, Sriperumbudur Taluk, Kanchipuram - Chennai Rd,
             Chennai, Tamil Nadu 602105
           </p>
           <div className="mapouter">

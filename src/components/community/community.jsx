@@ -30,9 +30,9 @@ const community = () => {
                   unveiling the full potential of web development.
                   <br />
                   <br />
-                  Secretery: Lathika Sunder
+                  Secretary: Lathika Sunder
                   <br />
-                  Joint-Secretery: Sagul, SaranKumar J, Harsayazheni PY
+                  Joint-Secretary: Sagul, SaranKumar J, Harsayazheni PY
                   <br />
                   <br />
                   <span>Contact:</span>
@@ -77,9 +77,9 @@ const community = () => {
                   gaming engines,review, consoles and much about that industry.
                   <br />
                   <br />
-                  Secretery: Sham Rathan S
+                  Secretary: Sham Rathan S
                   <br />
-                  Joint-Secretery: Aakash S, Dinesh Kumar, V.Navya.
+                  Joint-Secretary: Aakash S, Dinesh Kumar, V.Navya.
                   <br />
                   <br />
                   <span>Contact</span>
@@ -136,9 +136,9 @@ const community = () => {
                   future where intelligent systems catalyze societal progress.
                   <br />
                   <br />
-                  Secretery: Nagaraj s
+                  Secretary: Nagaraj s
                   <br />
-                  Joint-Secretery: Jeeva Abhishek, K. Kavya, Amrutha Rajsheker
+                  Joint-Secretary: Jeeva Abhishek, K. Kavya, Amrutha Rajsheker
                   <br />
                   <br />
                   <span>Contact</span>
@@ -187,9 +187,9 @@ const community = () => {
                   and contribute to a smarter and more connected world.
                   <br />
                   <br />
-                  Secretery: Chethan Y
+                  Secretary: Chethan Y
                   <br />
-                  Joint-Secretery: Rithiga Sri.B, Laakshit D, Ronick Aakshath P
+                  Joint-Secretary: Rithiga Sri.B, Laakshit D, Ronick Aakshath P
                   <br />
                   <br />
                   <span>Contact</span>
