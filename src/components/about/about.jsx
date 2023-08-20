@@ -25,6 +25,7 @@ const about = () => {
             
             <div className="card">
               <div className="Card-Title">VISION</div>
+              <hr/>
               <div className="Card-Content">
                 Our vision is to create a vibrant college tech community where
                 diverse learners unite to explore and advance technology.
@@ -40,13 +41,13 @@ const about = () => {
   
             <div className="card">
               <div className="Card-Title">MISSION</div>
+              <hr/>
               <div className="Card-Content">
                 Our mission is to provide a platform that empowers learners to
                 excel in the fields of Machine Learning, Web Development, Game
                 Development, Intelligent Systems, and much more
                 <br/>
-                <br/>
-    
+                <br/>  
               </div>
             </div>
           </div>

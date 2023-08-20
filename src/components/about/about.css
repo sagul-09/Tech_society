@@ -48,12 +48,14 @@
 width: 50%;
 justify-content: space-evenly;
 display: flex;  
+padding-top: 3rem ;
+padding-bottom: 3rem;
 
 }
 .card{
   height: auto;
   width: 40vw;
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: white;
   border-radius: 10px;
   box-shadow: 0rem 0rem 1rem  black;
 
@@ -72,6 +74,12 @@ display: flex;
   display: flex;
   padding: 1rem;
   font-size: 1.5rem;
+}
+hr{
+  width: 80%;
+  background-color: black;
+  height: 3px;
+  border-radius: 20px;
 }
 @media screen and (max-width: 768px) {
   .Vision-Mission-Container {
