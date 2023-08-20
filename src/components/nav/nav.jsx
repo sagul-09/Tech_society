@@ -38,7 +38,7 @@ const nav = () => {
                 smooth
                 to="#"
                 onClick={() => setMobilenavOpen(!mobnavOpen)}
-                className="active"
+
               >
                 Home
               </HashLink>
