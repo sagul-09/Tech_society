@@ -79,7 +79,7 @@ const community = () => {
                   <br />
                   Secretary: Sham Rathan S
                   <br />
-                  Joint-Secretary: Aakash S, Dinesh Kumar, V.Navya.
+                  Joint-Secretary: Aakash S, Dinesh Kumar, Navya V.
                   <br />
                   <br />
                   <span>Contact</span>
@@ -112,7 +112,7 @@ const community = () => {
               </div> */}
                 <div className="postcard__bar"></div>
                 <div className="postcard__preview-txt">
-                  Vision:The Intelligent Systems Community envisions a globally
+                  Vision: The Intelligent Systems Community envisions a globally
                   interconnected network that harnesses the potential of
                   intelligent systems for profound transformations. Through
                   interdisciplinary collaboration and responsible innovation, we
@@ -123,7 +123,7 @@ const community = () => {
                   change and inspire innovation across diverse domains.
                   <br />
                   <br />
-                  Mission:The mission of the Intelligent Systems Community is to
+                  Mission: The mission of the Intelligent Systems Community is to
                   cultivate a dynamic ecosystem that champions pioneering
                   research, interdisciplinary synergy, and ethical frameworks.
                   Providing a platform for cutting-edge projects, knowledge
@@ -172,14 +172,14 @@ const community = () => {
               </div> */}
                 <div className="postcard__bar"></div>
                 <div className="postcard__preview-txt">
-                  Vision:Our vision for the Machine Learning Community at
+                  Vision: Our vision for the Machine Learning Community at
                   TechSociety is to create a collaborative and innovative space
                   where learners unlock the full potential of machine learning,
                   driving advancements that reshape industries, enhance
                   decision-making, and positively impact society.
                   <br />
                   <br />
-                  Mission:Our mission is to cultivate a dynamic community that
+                  Mission: Our mission is to cultivate a dynamic community that
                   empowers learners to master machine learning through hands-on
                   experiences, knowledge exchange, and ethical exploration. We
                   strive to foster a culture of innovation, where members
