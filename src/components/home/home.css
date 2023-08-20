@@ -92,6 +92,11 @@
     background-position: 50px 50px;
   }
 }
+.con{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
 .Society-Name {
   width: 40%;
   height: auto;
@@ -116,28 +121,28 @@
   display: flex;
   justify-content: flex-end;
 }
-.Society-Logo{
-  
-}
 
 @media screen and (max-width: 768px) {
   .Home-Container {
     flex-direction: column;
     text-align: center;
     height: auto;
+    
+    
   }
+
 
   .Society-Name {
     width: 80%;
     align-items: center;
-    padding-top: 15rem;
+    padding-top: 1rem;
     display: flex;
     justify-content: center;
     
     /* margin-bottom: 2rem; */
   }
   .Society-Logo{
-    width: 100vw;
+    width: 60vw;
     /* height: auto; */
   }
 
