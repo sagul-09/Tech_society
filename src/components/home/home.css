@@ -104,7 +104,7 @@
 .College-Title {
   letter-spacing: 1rem;
   font-size: 4rem;
-  font-weight: bolder;
+  font-weight: bold;
   display: flex;
 }
 .Society-Thought {
@@ -113,7 +113,7 @@
 }
 
 .thought-span {
-  width: 39.5vw;
+
   display: flex;
   justify-content: flex-end;
 }
