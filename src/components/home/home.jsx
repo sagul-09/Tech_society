@@ -1,6 +1,6 @@
-import React from "react";
+// import React from "react";
 import "./home.css";
-import societyLogo from "../../assets/societyLogo.png";
+// import societyLogo from "../../assets/societyLogo.png";
 import TSLogo from "../../assets/TSlogo.png";
 const home = () => {
   return (
