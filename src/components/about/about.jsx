@@ -22,39 +22,29 @@ const about = () => {
       <div className="Vision-Mission-Container">
         <div className="Vision-Content">
           <div data-aos="fade-right">
+            
             <div className="card">
-              <div className="content">
-                <div className="contentBx">
-                  <h2>VISION</h2>
-                </div>
+              <div className="Card-Title">VISION</div>
+              <div className="Card-Content">
+                Our vision is to create a vibrant college tech community where
+                diverse learners unite to explore and advance technology.
+                Together, we foster innovation, collaboration, and lifelong
+                learning, empowering learners to leverage technology for a
+                positive impact.
               </div>
-              <ul className="sci">
-                <li>
-                  Our vision is to create a vibrant college tech community where
-                  diverse learners unite to explore and advance technology.
-                  Together, we foster innovation, collaboration, and lifelong
-                  learning, empowering learners to leverage technology for a
-                  positive impact.
-                </li>
-              </ul>
             </div>
           </div>
         </div>
         <div className="Mission-Content">
           <div data-aos="fade-left">
+  
             <div className="card">
-              <div className="content">
-                <div className="contentBx">
-                  <h2>MISSION</h2>
-                </div>
+              <div className="Card-Title">MISSION</div>
+              <div className="Card-Content">
+                Our mission is to provide a platform that empowers learners to
+                excel in the fields of Machine Learning, Web Development, Game
+                Development, Intelligent Systems, and much more
               </div>
-              <ul className="sci">
-                <li>
-                  Our mission is to provide a platform that empowers learners to
-                  excel in the fields of Machine Learning, Web Development, Game
-                  Development, Intelligent Systems, and much more
-                </li>
-              </ul>
             </div>
           </div>
         </div>
