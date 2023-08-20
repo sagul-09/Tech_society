@@ -138,7 +138,7 @@ const community = () => {
                   <br />
                   Secretary: Nagaraj s
                   <br />
-                  Joint-Secretary: Jeeva Abhishek, K. Kavya, Amrutha Rajsheker
+                  Joint-Secretary: Jeeva Abishake, K. Kavya, Amrutha Rajsheker
                   <br />
                   <br />
                   <span>Contact</span>
