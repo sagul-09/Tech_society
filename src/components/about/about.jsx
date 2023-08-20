@@ -6,6 +6,8 @@ const about = () => {
     <div className="About-Container" id="About">
       <div data-aos="fade-down">
         <div className="About-Title">ABOUT</div>
+      </div>
+      <div data-aos="fade-down">
         <div className="About-Society">
           Welcome to our dynamic and innovative Tech Society! Your gateway to
           the exciting world of new technologies.
