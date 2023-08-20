@@ -39,7 +39,7 @@ const community = () => {
                   <br />
                   Mail: sarankumar.student@saveetha.ac.in
                   <br />
-                  Phone No.: 6379615515
+                  Phone No.: +91 6379615515
                 </div>
                 <ul className="postcard__tagbox">
                   <li className="tag__item play blue">
@@ -86,7 +86,7 @@ const community = () => {
                   <br />
                   Mail: aakash.student@saveetha.ac.in
                   <br />
-                  Phone No.: 6383960184
+                  Phone No.: +91 6383960184
                 </div>
                 <ul className="postcard__tagbox">
                   <li className="tag__item play red">
@@ -123,8 +123,8 @@ const community = () => {
                   change and inspire innovation across diverse domains.
                   <br />
                   <br />
-                  Mission: The mission of the Intelligent Systems Community is to
-                  cultivate a dynamic ecosystem that champions pioneering
+                  Mission: The mission of the Intelligent Systems Community is
+                  to cultivate a dynamic ecosystem that champions pioneering
                   research, interdisciplinary synergy, and ethical frameworks.
                   Providing a platform for cutting-edge projects, knowledge
                   dissemination, and pragmatic solutions, our community fosters
@@ -145,7 +145,7 @@ const community = () => {
                   <br />
                   Mail: nagaraj.cse.student@saveetha.ac.in
                   <br />
-                  Phone No.: 7603809690
+                  Phone No.: +91 7603809690
                 </div>
                 <ul className="postcard__tagbox">
                   <li className="tag__item play blue">
@@ -196,7 +196,7 @@ const community = () => {
                   <br />
                   Mail: chethan.student@saveetha.ac.in
                   <br />
-                  Phone No.: 8344443941
+                  Phone No.: +91 8344443941
                 </div>
                 <ul className="postcard__tagbox">
                   <li className="tag__item play red">

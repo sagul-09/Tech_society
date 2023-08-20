@@ -29,21 +29,23 @@ const Footer = () => {
               <li className="links">
                 Mail: marintorichee.student@saveetha.ac.in
               </li>
-              <li className="links">Phone No.: 9994934712</li>
+              <li className="links">Phone No.: +91 9994934712</li>
             </ul>
           </div>
           <h4 className="heading">ASSISTANT STUDENT CO-ORDINATORS</h4>
           <div className="Community-Coordinators">
             <ul>
+              <li>Shafeeq Ahamed</li>
+              <li>Mail: shafeeq.student@saveetha.ac.in</li>
+              <li>Phone No.: +91 9840328404</li>
+              <br />
               <li>Anisha Shabnam</li>
               <li>Mail: anishashabnamm.student@saveetha.ac.in</li>
+              <li>Phone No.: +91 91505 82103</li>
               <br />
               <li>Kaushika</li>
               <li>Mail: kaushika.student@saveetha.ac.in</li>
-              <br />
-              <li>Shafeeq Ahamed</li>
-              <li>Mail: shafeeq.student@saveetha.ac.in</li>
-              <li>Phone No.: 9840328404</li>
+              <li>Phone No.: +91 99406 74299</li>
             </ul>
           </div>
         </div>
