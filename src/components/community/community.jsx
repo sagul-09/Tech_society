@@ -57,7 +57,7 @@ const community = () => {
 
               <div className="postcard__text">
                 <h1 className="postcard__title red">
-                  <div>GAME DEVELOPMENT COMMUNITY</div>
+                  <div>GAME AND APP DEVELOPMENT COMMUNITY</div>
                 </h1>
                 {/* <div className="postcard__subtitle small">
                 
