@@ -1,6 +1,7 @@
 import React from "react";
 import "./home.css";
 import societyLogo from "../../assets/societyLogo.png";
+import TSLogo from "../../assets/TSlogo.png";
 const home = () => {
   return (
     <>
@@ -18,7 +19,7 @@ const home = () => {
             </div>
           </div>
         </div>
-        <img src={societyLogo} alt="Society Logo" />
+        <img src={TSLogo} alt="Society Logo" />
       </div>
     </>
   );
