@@ -1,7 +1,7 @@
 import "./community.css";
 import Web from "../../assets/community/web.jpeg";
 import Game from "../../assets/community/game.jpg";
-import Inte from "../../assets/community/intellif=gence.jpg";
+import Inte from "../../assets/community/Intel.jpeg";
 import Ml from "../../assets/community/ML.jpeg";
 const community = () => {
   return (
