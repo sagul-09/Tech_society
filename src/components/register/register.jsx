@@ -19,5 +19,4 @@ function register() {
     </div>
   );
 }
-
 export default register;
