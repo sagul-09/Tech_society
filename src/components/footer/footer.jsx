@@ -42,11 +42,11 @@ const Footer = () => {
               <br />
               <li>Anisha Shabnam</li>
               <li>Mail: anishashabnamm.student@saveetha.ac.in</li>
-              <li>Phone No.: +91 91505 82103</li>
+              <li>Phone No.: +91 9150582103</li>
               <br />
               <li>Kaushika</li>
               <li>Mail: kaushika.student@saveetha.ac.in</li>
-              <li>Phone No.: +91 99406 74299</li>
+              <li>Phone No.: +91 9940674299</li>
             </ul>
           </div>
         </div>
@@ -61,12 +61,9 @@ const Footer = () => {
           <a href="#Community" className="links">
             Community
           </a>
-          <a href="#Register" className="links">
-            Register
-          </a>
           <h4
             className="heading"
-            style={{ marginTop: "2rem", marginBottom: "1rem" }}
+            style={{ marginTop: "1.25rem", marginBottom: "1rem" }}
           >
             SOCIALS
           </h4>

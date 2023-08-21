@@ -32,10 +32,10 @@ const community = () => {
                   <br />
                   Secretary: Lathika Sunder
                   <br />
-                  Joint-Secretary: Sagul, SaranKumar J, Harsayazheni PY
+                  Joint-Secretary: Sagul, Sarankumar J, Harsayazheni P Y
                   <br />
                   <br />
-                  <span>Contact:</span>
+                  <u>Contact</u>
                   <br />
                   Mail: sarankumar.student@saveetha.ac.in
                   <br />
@@ -69,15 +69,15 @@ const community = () => {
                   Vision: To inspire and entertain the learners through innovative and immersive gaming and app experiences that push the boundaries of technology, storytelling, and creativity. 
                   <br />
                   <br />
-                  Mission: Our mission is to create a dynamic and inclusive ecosystem that empowers game and app developers to excel, collaborate, and make a meaningful impact. Through our commitment to knowledge sharing, skill development, and fostering connections.
+                  Mission: To create a dynamic and inclusive ecosystem that empowers game and app developers to excel, collaborate, and make a meaningful impact. Through our commitment to knowledge sharing, skill development, and fostering connections.
                   <br />
                   <br />
                   Secretary: Sham Rathan S
                   <br />
-                  Joint-Secretary: Aakash S, Dinesh Kumar, Navya V.
+                  Joint-Secretary: Aakash S, Dinesh Kumar, Navya V
                   <br />
                   <br />
-                  <span>Contact</span>
+                  <u>Contact</u>
                   <br />
                   Mail: aakash.student@saveetha.ac.in
                   <br />
@@ -118,8 +118,7 @@ const community = () => {
                   change and inspire innovation across diverse domains.
                   <br />
                   <br />
-                  Mission: The mission of the Intelligent Systems Community is
-                  to cultivate a dynamic ecosystem that champions pioneering
+                  Mission: To cultivate a dynamic ecosystem that champions pioneering
                   research, interdisciplinary synergy, and ethical frameworks.
                   Providing a platform for cutting-edge projects, knowledge
                   dissemination, and pragmatic solutions, our community fosters
@@ -131,12 +130,12 @@ const community = () => {
                   future where intelligent systems catalyze societal progress.
                   <br />
                   <br />
-                  Secretary: Nagaraj s
+                  Secretary: Nagaraj S
                   <br />
-                  Joint-Secretary: Jeeva Abishake, K. Kavya, Amrutha Rajsheker
+                  Joint-Secretary: Jeeva Abishake, K Kavya, Amrutha Rajsheker
                   <br />
                   <br />
-                  <span>Contact</span>
+                  <u>Contact</u>
                   <br />
                   Mail: nagaraj.cse.student@saveetha.ac.in
                   <br />
@@ -167,14 +166,13 @@ const community = () => {
               </div> */}
                 <div className="postcard__bar"></div>
                 <div className="postcard__preview-txt">
-                  Vision: Our vision for the Machine Learning Community at
-                  TechSociety is to create a collaborative and innovative space
+                  Vision: To create a collaborative and innovative space
                   where learners unlock the full potential of machine learning,
                   driving advancements that reshape industries, enhance
                   decision-making, and positively impact society.
                   <br />
                   <br />
-                  Mission: Our mission is to cultivate a dynamic community that
+                  Mission: To cultivate a dynamic community that
                   empowers learners to master machine learning through hands-on
                   experiences, knowledge exchange, and ethical exploration. We
                   strive to foster a culture of innovation, where members
@@ -184,10 +182,10 @@ const community = () => {
                   <br />
                   Secretary: Chethan Y
                   <br />
-                  Joint-Secretary: Rithiga Sri.B, Laakshit D, Ronick Aakshath P
+                  Joint-Secretary: Rithiga Sri B, Laakshit D, Ronick Aakshath P
                   <br />
                   <br />
-                  <span>Contact</span>
+                  <u>Contact</u>
                   <br />
                   Mail: chethan.student@saveetha.ac.in
                   <br />
