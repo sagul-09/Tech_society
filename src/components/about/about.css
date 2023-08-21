@@ -98,8 +98,16 @@ hr{
     width: 80vw;
     height: auto;
     justify-content:center ;
-    align-items: center;
+    align-items: center;  
+    
   }
-
+.Card-Content{
+  align-items: center;
+  text-align: center;
+  display: flex;
+  padding: 1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
 
 }
