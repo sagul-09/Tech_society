@@ -61,7 +61,7 @@ const nav = () => {
                 Community
               </HashLink>
             </li>
-            <li>
+            {/* <li>
               <HashLink
                 smooth
                 to="#Register"
@@ -69,7 +69,7 @@ const nav = () => {
               >
                 Register
               </HashLink>
-            </li>
+            </li> */}
             <li>
               <HashLink
                 smooth
