@@ -66,15 +66,10 @@ const community = () => {
               </div> */}
                 <div className="postcard__bar"></div>
                 <div className="postcard__preview-txt">
-                  Vision: Game Development Community will provide a space for
-                  anyone interested in learning how to develop video games,
-                  whether they have no experience in it and help you to know the
-                  everything about gaming sector.
+                  Vision: To inspire and entertain the learners through innovative and immersive gaming and app experiences that push the boundaries of technology, storytelling, and creativity. 
                   <br />
                   <br />
-                  Mission: We create fun based games,workshops and events to the
-                  students to acquire knowledge on game development pipeline,
-                  gaming engines,review, consoles and much about that industry.
+                  Mission: Our mission is to create a dynamic and inclusive ecosystem that empowers game and app developers to excel, collaborate, and make a meaningful impact. Through our commitment to knowledge sharing, skill development, and fostering connections.
                   <br />
                   <br />
                   Secretary: Sham Rathan S
