@@ -4,9 +4,9 @@ function register() {
     <div className="Register-Conatiner" id="Register">
       <div data-aos="fade-down">
         <div className="Register-Title">
-          REGISTER NOW TO BE A PART OF THE TECH-SOCIETY COMMUNITY
+          REGISTRACTIONS  WILL  BEGIN  SHORTLY
         </div>
-        <div className="wrapper">
+        {/* <div className="wrapper">
           <a
             className="cta"
             target="blank"
@@ -14,7 +14,7 @@ function register() {
           >
             <span>REGISTER</span>
           </a>
-        </div>
+        </div> */}
       </div>
     </div>
   );
