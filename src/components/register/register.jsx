@@ -6,6 +6,8 @@ function register() {
         <div className="Register-Title">
           REGISTRACTIONS  WILL  BEGIN  SHORTLY
         </div>
+        <br>
+        </br>
         {/* <div className="wrapper">
           <a
             className="cta"
